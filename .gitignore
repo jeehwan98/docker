@@ -1,0 +1,14 @@
+# Maven build output
+backend/target/
+
+# Node.js
+node_modules/
+frontend/.next/
+
+# Environment variables
+.env
+.env.local
+.env*.local
+
+# OS
+.DS_Store
